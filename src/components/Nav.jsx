@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Nav = () => {
   return (
-    <nav className='container p-4  h-16 font-projekt uppercase font-bold absolute top-0'>
+    <nav className=' w-full p-4  h-16  font-mono uppercase font-bold fixed z-10 top-0'>
       <div className='logo-container float-left'>
         <p>Sabrina</p>
       </div>
